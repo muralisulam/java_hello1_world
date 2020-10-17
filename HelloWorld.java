@@ -6,5 +6,7 @@ public class HelloWorld {
     System.out.println("Hello, DevOps Guys");
     System.out.println("Hello, DevOps Guys");
     System.out.println("Happy Weekend.................!!!");
+    System.out.println("Main Door Implementation tomorrow.................!!!");
+    System.out.println("My Sweet Home");
   }
 }
