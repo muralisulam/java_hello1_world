@@ -8,5 +8,7 @@ public class HelloWorld {
     System.out.println("Happy Weekend.................!!!");
     System.out.println("Main Door Implementation tomorrow.................!!!");
     System.out.println("My Sweet Home");
+    System.out.println("Happy Dasara");
+    System.out.println("Navarathri started");
   }
 }
