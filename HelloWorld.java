@@ -10,5 +10,7 @@ public class HelloWorld {
     System.out.println("My Sweet Home");
     System.out.println("Happy Dasara");
     System.out.println("Navarathri started");
+    System.out.println("Hemalatha");
+    System.out.println("Murali Krishna Sulam");
   }
 }
